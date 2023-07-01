@@ -14,6 +14,7 @@ builds the tree wit
 The hierarchy tree can be show from bottom up or from top to bottom.
 Output formats are UTF, TREE, or GraphViz
 
+```
 Options:
   -u   prints tree bottom-up (default). Physical devices are roots of the tree.
   -d   prints tree top-down. Logical devices are roots of the tree.
@@ -21,7 +22,7 @@ Options:
   -G   Print GraphViz Syntax graph, node and edge definitions.
   -g   Print GraphViz Syntax node and edge definitions only.
   -l   use UTF8 characters (default, if 'tree' is not installed).
-
+```
 
 Example:
 
