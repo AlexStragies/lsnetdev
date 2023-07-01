@@ -18,6 +18,7 @@ Output formats are UTF, TREE, or GraphViz
 Options:
   -u   prints tree bottom-up (default). Physical devices are roots of the tree.
   -d   prints tree top-down. Logical devices are roots of the tree.
+  -s X connect to host X via SSH to query information
   -t   Use 'tree' to print the tree by constructing a tree in TMP (default).
   -G   Print GraphViz Syntax graph, node and edge definitions.
   -g   Print GraphViz Syntax node and edge definitions only.
