@@ -1,7 +1,9 @@
-# show-net-devices-tree
+# lsnetdev
 A simple bash script showing hierarchy of networking devices.
 
-The script is inspired by the question at stackexchange
+The script is inspired by the script
+https://github.com/zabojcampula/show-net-devices-tree
+written/published in response to this question at StackExchange:
 http://unix.stackexchange.com/questions/328754.
 
 The goal is to show network adapters in a tree to where the dependecy
